@@ -86,8 +86,7 @@ npm run dev
 
 ## More detail
 
-See [`INTERVIEW_NOTES.md`](./INTERVIEW_NOTES.md) and
-[`FULL_INTERVIEW_PREP.md`](./FULL_INTERVIEW_PREP.md) in this repo for
+See [`FULL_INTERVIEW_PREP.md`](./FULL_INTERVIEW_PREP.md) in this repo for
 the detailed design decisions, tradeoffs, and real bugs found and
 fixed while building this — including a database constraint bug that
 permanently blocked rebooking cancelled seats, and an honest (not
